@@ -15,6 +15,9 @@ LAB -4: https://github.com/SAISRIHARSHAS/CS5560_Sai_LabsOnly_Repository/wiki/LAB
 
 LAB -5: https://github.com/SAISRIHARSHAS/CS5560_Sai_LabsOnly_Repository/wiki/LAB-5
 
+Lab - 6: https://github.com/SAISRIHARSHAS/CS5560_Sai_LabsOnly_Repository/wiki/Lab-6
+
+Lab: 7: https://github.com/SAISRIHARSHAS/CS5560_Sai_LabsOnly_Repository/wiki/Lab-7
 
 PROBLEM SETS: https://github.com/SAISRIHARSHAS/KDM
 
